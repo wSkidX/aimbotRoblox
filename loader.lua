@@ -1,4 +1,4 @@
-local lib = loadstring(game:HttpGet("https://raw.githubusercontent.com/GhostDuckyy/UI-Libraries/main/octohook/source.lua"))()
+local lib = loadstring(game:HttpGet("https://raw.githubusercontent.com/wSkidX/aimbotRoblox/refs/heads/master/uilib.lua"))()
 print(lib) -- debug, pastikan tidak nil
 
 -- Inisialisasi library (wajib)
